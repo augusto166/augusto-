@@ -4,5 +4,5 @@
 para rodar esse projeto na sua máquina, por favor digite:
 
 ```
-aluno augusto react
+node app.js
 ```
